@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-image: url('about.jpg');
+    
+    background-size: contain;
+    
+}
